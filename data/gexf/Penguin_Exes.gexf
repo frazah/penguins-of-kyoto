@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2020-07-10">
+    <creator>NetworkX 2.4</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="0" title="info" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Muro" label="Muro" />
+      <node id="Takatsuji" label="Takatsuji" />
+      <node id="Juujou" label="Juujou" />
+      <node id="Kujou" label="Kujou" />
+      <node id="Kamanza" label="Kamanza" />
+      <node id="Ryou" label="Ryou" />
+      <node id="Rokujou" label="Rokujou" />
+      <node id="Nishi" label="Nishi" />
+      <node id="Yanagi" label="Yanagi" />
+      <node id="Sakura" label="Sakura" />
+      <node id="Moto" label="Moto" />
+      <node id="Osshii" label="Osshii" />
+      <node id="Hachi" label="Hachi" />
+      <node id="Chie" label="Chie" />
+      <node id="Kami" label="Kami" />
+      <node id="Ino" label="Ino" />
+      <node id="Joufuku" label="Joufuku" />
+      <node id="Kagura" label="Kagura" />
+      <node id="Matsuya" label="Matsuya" />
+      <node id="Saya" label="Saya" />
+      <node id="Bon" label="Bon" />
+      <node id="Oike" label="Oike" />
+      <node id="Matsu" label="Matsu" />
+      <node id="Man" label="Man" />
+      <node id="Nako" label="Nako" />
+      <node id="Kuruma" label="Kuruma" />
+      <node id="Koko" label="Koko" />
+      <node id="Rokkaku" label="Rokkaku" />
+      <node id="Takara" label="Takara" />
+      <node id="Same" label="Same" />
+      <node id="Tera" label="Tera" />
+      <node id="Aya" label="Aya" />
+      <node id="Shichijou" label="Shichijou" />
+      <node id="Ebisu" label="Ebisu" />
+      <node id="Nijou" label="Nijou" />
+      <node id="Hana" label="Hana" />
+      <node id="Oomiya" label="Oomiya" />
+      <node id="Chara" label="Chara" />
+      <node id="Horikawa" label="Horikawa" />
+      <node id="Mikage" label="Mikage" />
+      <node id="Kuro" label="Kuro" />
+      <node id="Higashi" label="Higashi" />
+      <node id="Ane" label="Ane" />
+      <node id="Shijou" label="Shijou" />
+      <node id="Shinmachi" label="Shinmachi" />
+      <node id="Takakura" label="Takakura" />
+      <node id="Yasaka" label="Yasaka" />
+      <node id="Take" label="Take" />
+      <node id="Ume" label="Ume" />
+      <node id="Koromo" label="Koromo" />
+      <node id="Maru" label="Maru" />
+      <node id="Naka" label="Naka" />
+      <node id="Yoshiya" label="Yoshiya" />
+      <node id="Tanba" label="Tanba" />
+      <node id="Bukkou" label="Bukkou" />
+      <node id="Abura" label="Abura" />
+      <node id="Sen" label="Sen" />
+      <node id="Mari" label="Mari" />
+      <node id="Hari " label="Hari " />
+    </nodes>
+    <edges>
+      <edge id="0" source="Yanagi" target="Matsu" weight="1.0" />
+      <edge id="1" source="Osshii" target="Hachi" weight="1.0" />
+      <edge id="2" source="Hachi" target="Osshii" weight="1.0" />
+      <edge id="3" source="Chie" target="Kami" weight="1.0" />
+      <edge id="4" source="Kami" target="Joufuku" weight="1.0">
+        <attvalues>
+          <attvalue for="0" value="formerly BL and two birds' love became catastrophe" />
+        </attvalues>
+      </edge>
+      <edge id="5" source="Joufuku" target="Kami" weight="1.0">
+        <attvalues>
+          <attvalue for="0" value="formerly BL and two birds' love became catastrophe" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="Kagura" target="Same" weight="1.0">
+        <attvalues>
+          <attvalue for="0" value="broke up due to Kagura's fathers' interference" />
+        </attvalues>
+      </edge>
+      <edge id="7" source="Saya" target="Kuro" weight="1.0" />
+      <edge id="8" source="Oike" target="Matsu" weight="1.0" />
+      <edge id="9" source="Oike" target="Shichijou" weight="1.0">
+        <attvalues>
+          <attvalue for="0" value="lived on &quot;Tawa-man&quot; together" />
+        </attvalues>
+      </edge>
+      <edge id="10" source="Matsu" target="Yanagi" weight="1.0" />
+      <edge id="11" source="Matsu" target="Oike" weight="1.0" />
+      <edge id="12" source="Nako" target="Koko" weight="1.0" />
+      <edge id="13" source="Kuruma" target="Nijou" weight="1.0">
+        <attvalues>
+          <attvalue for="0" value="formerly BL (amicable separation) and now love rivals" />
+        </attvalues>
+      </edge>
+      <edge id="14" source="Koko" target="Nako" weight="1.0" />
+      <edge id="15" source="Same" target="Kagura" weight="1.0">
+        <attvalues>
+          <attvalue for="0" value="broke up due to Kagura's fathers' interference" />
+        </attvalues>
+      </edge>
+      <edge id="16" source="Tera" target="Kamanza" weight="1.0" />
+      <edge id="17" source="Tera" target="Yanagi" weight="1.0" />
+      <edge id="18" source="Tera" target="Sakura" weight="1.0" />
+      <edge id="19" source="Tera" target="Kuruma" weight="1.0" />
+      <edge id="20" source="Tera" target="Takakura" weight="1.0">
+        <attvalues>
+          <attvalue for="0" value="originally a couple and moved on to new relationship" />
+        </attvalues>
+      </edge>
+      <edge id="21" source="Tera" target="Naka" weight="1.0" />
+      <edge id="22" source="Aya" target="Shichijou" weight="1.0">
+        <attvalues>
+          <attvalue for="0" value="still meet occasionally" />
+        </attvalues>
+      </edge>
+      <edge id="23" source="Shichijou" target="Aya" weight="1.0">
+        <attvalues>
+          <attvalue for="0" value="still meet occasionally" />
+        </attvalues>
+      </edge>
+      <edge id="24" source="Nijou" target="Kuruma" weight="1.0">
+        <attvalues>
+          <attvalue for="0" value="formerly BL (amicable separation) and now love rivals" />
+        </attvalues>
+      </edge>
+      <edge id="25" source="Kuro" target="Saya" weight="1.0" />
+      <edge id="26" source="Takakura" target="Tera" weight="1.0">
+        <attvalues>
+          <attvalue for="0" value="originally a couple and moved on to new relationship" />
+        </attvalues>
+      </edge>
+      <edge id="27" source="Koromo" target="Bukkou" weight="1.0" />
+      <edge id="28" source="Naka" target="Tanba" weight="1.0" />
+      <edge id="29" source="Tanba" target="Naka" weight="1.0" />
+      <edge id="30" source="Bukkou" target="Koromo" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>

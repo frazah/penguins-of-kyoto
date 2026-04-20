@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2020-07-10">
+    <creator>NetworkX 2.4</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="0" title="info" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Muro" label="Muro" />
+      <node id="Takatsuji" label="Takatsuji" />
+      <node id="Juujou" label="Juujou" />
+      <node id="Kujou" label="Kujou" />
+      <node id="Kamanza" label="Kamanza" />
+      <node id="Ryou" label="Ryou" />
+      <node id="Rokujou" label="Rokujou" />
+      <node id="Nishi" label="Nishi" />
+      <node id="Yanagi" label="Yanagi" />
+      <node id="Sakura" label="Sakura" />
+      <node id="Moto" label="Moto" />
+      <node id="Osshii" label="Osshii" />
+      <node id="Hachi" label="Hachi" />
+      <node id="Chie" label="Chie" />
+      <node id="Kami" label="Kami" />
+      <node id="Ino" label="Ino" />
+      <node id="Joufuku" label="Joufuku" />
+      <node id="Kagura" label="Kagura" />
+      <node id="Matsuya" label="Matsuya" />
+      <node id="Saya" label="Saya" />
+      <node id="Bon" label="Bon" />
+      <node id="Oike" label="Oike" />
+      <node id="Matsu" label="Matsu" />
+      <node id="Man" label="Man" />
+      <node id="Nako" label="Nako" />
+      <node id="Kuruma" label="Kuruma" />
+      <node id="Koko" label="Koko" />
+      <node id="Rokkaku" label="Rokkaku" />
+      <node id="Takara" label="Takara" />
+      <node id="Same" label="Same" />
+      <node id="Tera" label="Tera" />
+      <node id="Aya" label="Aya" />
+      <node id="Shichijou" label="Shichijou" />
+      <node id="Ebisu" label="Ebisu" />
+      <node id="Nijou" label="Nijou" />
+      <node id="Hana" label="Hana" />
+      <node id="Oomiya" label="Oomiya" />
+      <node id="Chara" label="Chara" />
+      <node id="Horikawa" label="Horikawa" />
+      <node id="Mikage" label="Mikage" />
+      <node id="Kuro" label="Kuro" />
+      <node id="Higashi" label="Higashi" />
+      <node id="Ane" label="Ane" />
+      <node id="Shijou" label="Shijou" />
+      <node id="Shinmachi" label="Shinmachi" />
+      <node id="Takakura" label="Takakura" />
+      <node id="Yasaka" label="Yasaka" />
+      <node id="Take" label="Take" />
+      <node id="Ume" label="Ume" />
+      <node id="Koromo" label="Koromo" />
+      <node id="Maru" label="Maru" />
+      <node id="Naka" label="Naka" />
+      <node id="Yoshiya" label="Yoshiya" />
+      <node id="Tanba" label="Tanba" />
+      <node id="Bukkou" label="Bukkou" />
+      <node id="Abura" label="Abura" />
+      <node id="Sen" label="Sen" />
+      <node id="Mari" label="Mari" />
+      <node id="Hari " label="Hari " />
+    </nodes>
+    <edges>
+      <edge id="0" source="Muro" target="Takatsuji" weight="1.0" />
+      <edge id="1" source="Takatsuji" target="Muro" weight="1.0" />
+      <edge id="2" source="Juujou" target="Kujou" weight="1.0" />
+      <edge id="3" source="Kujou" target="Juujou" weight="1.0" />
+      <edge id="4" source="Kamanza" target="Saya" weight="1.0" />
+      <edge id="5" source="Ryou" target="Rokujou" weight="1.0" />
+      <edge id="6" source="Rokujou" target="Ryou" weight="1.0" />
+      <edge id="7" source="Moto" target="Nako" weight="1.0" />
+      <edge id="8" source="Osshii" target="Tera" weight="1.0" />
+      <edge id="9" source="Hachi" target="Bukkou" weight="1.0">
+        <attvalues>
+          <attvalue for="0" value="successful matchmaking" />
+        </attvalues>
+      </edge>
+      <edge id="10" source="Chie" target="Joufuku" weight="1.0" />
+      <edge id="11" source="Ino" target="Takakura" weight="1.0">
+        <attvalues>
+          <attvalue for="0" value="always on underwater dates" />
+        </attvalues>
+      </edge>
+      <edge id="12" source="Joufuku" target="Chie" weight="1.0" />
+      <edge id="13" source="Matsuya" target="Tanba" weight="1.0">
+        <attvalues>
+          <attvalue for="0" value="don't spend time together except at night" />
+        </attvalues>
+      </edge>
+      <edge id="14" source="Saya" target="Kamanza" weight="1.0">
+        <attvalues>
+          <attvalue for="0" value="staff shocked! and 17 years age gap couple" />
+        </attvalues>
+      </edge>
+      <edge id="15" source="Bon" target="Yoshiya" weight="1.0" />
+      <edge id="16" source="Matsu" target="Man" weight="1.0" />
+      <edge id="17" source="Man" target="Matsu" weight="1.0" />
+      <edge id="18" source="Nako" target="Moto" weight="1.0" />
+      <edge id="19" source="Koko" target="Rokkaku" weight="1.0" />
+      <edge id="20" source="Rokkaku" target="Koko" weight="1.0" />
+      <edge id="21" source="Takara" target="Mari" weight="1.0" />
+      <edge id="22" source="Tera" target="Osshii" weight="1.0" />
+      <edge id="23" source="Hana" target="Naka" weight="1.0">
+        <attvalues>
+          <attvalue for="0" value="Naka does not like Kuruma/Nijou's flirting with Hana" />
+        </attvalues>
+      </edge>
+      <edge id="24" source="Chara" target="Maru" weight="1.0" />
+      <edge id="25" source="Horikawa" target="Yasaka" weight="1.0" />
+      <edge id="26" source="Mikage" target="Hari " weight="1.0" />
+      <edge id="27" source="Higashi" target="Koromo" weight="1.0" />
+      <edge id="28" source="Ane" target="Shijou" weight="1.0" />
+      <edge id="29" source="Shijou" target="Ane" weight="1.0" />
+      <edge id="30" source="Takakura" target="Ino" weight="1.0" />
+      <edge id="31" source="Yasaka" target="Horikawa" weight="1.0">
+        <attvalues>
+          <attvalue for="0" value="flirts after guests go home" />
+        </attvalues>
+      </edge>
+      <edge id="32" source="Take" target="Ume" weight="1.0" />
+      <edge id="33" source="Ume" target="Take" weight="1.0">
+        <attvalues>
+          <attvalue for="0" value="sleep together and promoted from friends" />
+        </attvalues>
+      </edge>
+      <edge id="34" source="Koromo" target="Higashi" weight="1.0">
+        <attvalues>
+          <attvalue for="0" value="got back with ex (stolen by Bukkou)" />
+        </attvalues>
+      </edge>
+      <edge id="35" source="Maru" target="Chara" weight="1.0" />
+      <edge id="36" source="Naka" target="Hana" weight="1.0" />
+      <edge id="37" source="Yoshiya" target="Bon" weight="1.0" />
+      <edge id="38" source="Tanba" target="Matsuya" weight="1.0" />
+      <edge id="39" source="Bukkou" target="Hachi" weight="1.0" />
+      <edge id="40" source="Mari" target="Takara" weight="1.0">
+        <attvalues>
+          <attvalue for="0" value="no more rivals and relationship is secure" />
+        </attvalues>
+      </edge>
+      <edge id="41" source="Hari " target="Mikage" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2020-07-10">
+    <creator>NetworkX 2.4</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="0" title="info" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Muro" label="Muro" />
+      <node id="Takatsuji" label="Takatsuji" />
+      <node id="Juujou" label="Juujou" />
+      <node id="Kujou" label="Kujou" />
+      <node id="Kamanza" label="Kamanza" />
+      <node id="Ryou" label="Ryou" />
+      <node id="Rokujou" label="Rokujou" />
+      <node id="Nishi" label="Nishi" />
+      <node id="Yanagi" label="Yanagi" />
+      <node id="Sakura" label="Sakura" />
+      <node id="Moto" label="Moto" />
+      <node id="Osshii" label="Osshii" />
+      <node id="Hachi" label="Hachi" />
+      <node id="Chie" label="Chie" />
+      <node id="Kami" label="Kami" />
+      <node id="Ino" label="Ino" />
+      <node id="Joufuku" label="Joufuku" />
+      <node id="Kagura" label="Kagura" />
+      <node id="Matsuya" label="Matsuya" />
+      <node id="Saya" label="Saya" />
+      <node id="Bon" label="Bon" />
+      <node id="Oike" label="Oike" />
+      <node id="Matsu" label="Matsu" />
+      <node id="Man" label="Man" />
+      <node id="Nako" label="Nako" />
+      <node id="Kuruma" label="Kuruma" />
+      <node id="Koko" label="Koko" />
+      <node id="Rokkaku" label="Rokkaku" />
+      <node id="Takara" label="Takara" />
+      <node id="Same" label="Same" />
+      <node id="Tera" label="Tera" />
+      <node id="Aya" label="Aya" />
+      <node id="Shichijou" label="Shichijou" />
+      <node id="Ebisu" label="Ebisu" />
+      <node id="Nijou" label="Nijou" />
+      <node id="Hana" label="Hana" />
+      <node id="Oomiya" label="Oomiya" />
+      <node id="Chara" label="Chara" />
+      <node id="Horikawa" label="Horikawa" />
+      <node id="Mikage" label="Mikage" />
+      <node id="Kuro" label="Kuro" />
+      <node id="Higashi" label="Higashi" />
+      <node id="Ane" label="Ane" />
+      <node id="Shijou" label="Shijou" />
+      <node id="Shinmachi" label="Shinmachi" />
+      <node id="Takakura" label="Takakura" />
+      <node id="Yasaka" label="Yasaka" />
+      <node id="Take" label="Take" />
+      <node id="Ume" label="Ume" />
+      <node id="Koromo" label="Koromo" />
+      <node id="Maru" label="Maru" />
+      <node id="Naka" label="Naka" />
+      <node id="Yoshiya" label="Yoshiya" />
+      <node id="Tanba" label="Tanba" />
+      <node id="Bukkou" label="Bukkou" />
+      <node id="Abura" label="Abura" />
+      <node id="Sen" label="Sen" />
+      <node id="Mari" label="Mari" />
+      <node id="Hari " label="Hari " />
+    </nodes>
+    <edges>
+      <edge id="0" source="Ryou" target="Kuro" weight="1.0" />
+      <edge id="1" source="Rokujou" target="Kuro" weight="1.0" />
+      <edge id="2" source="Osshii" target="Same" weight="1.0">
+        <attvalues>
+          <attvalue for="0" value="battle over Tera" />
+        </attvalues>
+      </edge>
+      <edge id="3" source="Oike" target="Rokkaku" weight="1.0">
+        <attvalues>
+          <attvalue for="0" value="battled over a mountain view home and Rokkakku was victorious" />
+        </attvalues>
+      </edge>
+      <edge id="4" source="Oike" target="Kuro" weight="1.0" />
+      <edge id="5" source="Rokkaku" target="Oike" weight="1.0">
+        <attvalues>
+          <attvalue for="0" value="battled over a mountain view home and Rokkakku was victorious" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="Same" target="Osshii" weight="1.0">
+        <attvalues>
+          <attvalue for="0" value="battle over Tera" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

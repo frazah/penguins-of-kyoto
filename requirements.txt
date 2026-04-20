@@ -1,0 +1,8 @@
+importlib-metadata==8.0.0
+ipykernel==7.0.1
+jaraco.collections==5.1.0
+matplotlib==3.10.7
+networkx==3.4.2
+pandas==2.3.3
+pip-chill==1.0.3
+tomli==2.0.1
