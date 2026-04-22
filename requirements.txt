@@ -1,8 +1,7 @@
-importlib-metadata==8.0.0
-ipykernel==7.0.1
-jaraco.collections==5.1.0
-matplotlib==3.10.7
-networkx==3.4.2
-pandas==2.3.3
-pip-chill==1.0.3
-tomli==2.0.1
+pandas==3.0.2
+numpy==2.4.4
+scipy==1.17.1
+networkx==3.6.1
+matplotlib==3.10.8
+seaborn==0.13.2
+python-louvain==0.16
