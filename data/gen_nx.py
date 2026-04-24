@@ -6,7 +6,7 @@ G = nx.Graph()
 penguin_dict = {}
 penguin_descrip_dict = {}
 
-with open('Penguins of Kyoto - Metadata.csv') as csvfile:
+with open('csv/Penguins of Kyoto - Metadata.csv') as csvfile:
     reader = csv.reader(csvfile, delimiter=',')
     next(reader)
     j = 0
