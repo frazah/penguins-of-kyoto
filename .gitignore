@@ -2,3 +2,5 @@
 export/
 results/
 *.png
+!docs/images/relationship-network.png
+!docs/images/louvain-communities.png
