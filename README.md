@@ -79,7 +79,7 @@ The comparison with animal-network literature supports a picture of **global int
 
 These results describe a **static, categorical snapshot of one captive colony**. The data lack interaction frequency, duration, biological outcomes and repeated observations. Centrality identifies potential bridges but cannot demonstrate actual information or pathogen transmission, dominance, stress or impaired welfare. Effects of removing central individuals and claims about resilience also require further analysis. Findings cannot be generalized directly to wild populations.
 
-Future work could compare successive aquarium charts, analyze affiliative and antagonistic layers separately, assess patterns with permutation tests or null models, and simulate targeted versus random node removal. Behavioral and longitudinal observations would be needed to connect structural findings to welfare and management outcomes.
+Future work could add biological and welfare data, compare successive aquarium charts, analyze affiliative and antagonistic layers separately, assess patterns with permutation tests or null models, and simulate targeted versus random node removal. Behavioral and longitudinal observations would be needed to connect structural findings to welfare and management outcomes.
 
 *Source: thesis Chapters 5–6 for results and interpretations, Chapter 7 for future work. Values and figures summarize the thesis rather than a new analysis. Explore the [analysis notebook](analysis.ipynb) for the implementation.*
 
